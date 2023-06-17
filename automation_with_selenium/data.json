@@ -1,0 +1,22 @@
+
+{
+    "First Name": "John",
+    "User Email": "john@example.com",
+    "User Password": "password@123",
+    "Last Name": "Doe",
+    "Gender": "Male",
+    "Date of Birth": "1990-01-01",
+    "Phone": "+123456789",
+    "Emergency Contact": "",
+    "Nationality": "Afghanistan",
+    "Country": "Afghanistan",
+    "Date of Arrival": "2023-06-17",
+    "Intended Length of Stay": "7 days",
+    "Room and Bed Number": "",
+    "Occupation & Place of Employment": "Software Engineer",
+    "Do you require parking ?": "No",
+    "What is your room preference ?": "Single Room",
+    "Do you have dietary restriction ?": "None",
+    "What activities you will attend ?": "Awards Gala Dinner",
+    "Terms and Conditions": "Agreed"
+}
