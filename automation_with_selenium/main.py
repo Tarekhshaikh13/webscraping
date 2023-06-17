@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import json
 
-with open(r'C:\Users\Tareq\OneDrive\Desktop\webscraping\automation_with_selenium\data.json', 'r') as f:
+with open('data.json', 'r') as f:
     data = json.load(f)
 
 # driver = webdriver.Chrome()
