@@ -2,8 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-
-
 class InstaFollower:
     def __init__(self,name,pass_,driver):
         self.name = name

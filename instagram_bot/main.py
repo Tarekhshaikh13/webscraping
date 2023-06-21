@@ -9,8 +9,5 @@ driver = webdriver.Chrome(options=options)
 if __name__ == "__main__":
     bot = InstaFollower(USERNAME,PASS,driver)
     bot.login()
-
-
-
     bot.find_followers('chefsteps')
     time.sleep(100)
